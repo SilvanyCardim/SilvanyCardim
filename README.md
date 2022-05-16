@@ -6,7 +6,7 @@
 💃🏼 forrozeira <br>
 📚 Empreendedora e Gestora especialista em estratégia de negócio. <br>
 💻 Software Engineer <br>
-👨🏾‍💻 Estou no Programa Desenvolve 2022 da Boticário com trilha FullStack ministrado pela Alura
+
 </br>
 
 ##
